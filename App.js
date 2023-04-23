@@ -8,7 +8,7 @@ const spotifyAPI = new SpotifyWebApi();
 const CLIENT_ID = "b59c4b8e3df247e1a530ccb87d4ffbbb";
 const CLIENT_SECRET = "eaef3b021e604ea699cd6b62e2c9bf69";
 const SCOPE = "user-read-private user-read-email user-top-read";
-const REDIRECT_URL = "http://localhost:3000";
+const REDIRECT_URL = "https://ethankemper.github.io/Treeify/";
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
 const RESPONSE_TYPE = "token";
 

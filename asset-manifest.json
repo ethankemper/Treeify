@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Treeify/static/css/main.132dab48.css",
-    "main.js": "/Treeify/static/js/main.b653040c.js",
+    "main.css": "/Treeify/static/css/main.d8bf760e.css",
+    "main.js": "/Treeify/static/js/main.f79de958.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Treeify/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/Treeify/index.html",
-    "main.132dab48.css.map": "/Treeify/static/css/main.132dab48.css.map",
-    "main.b653040c.js.map": "/Treeify/static/js/main.b653040c.js.map",
+    "main.d8bf760e.css.map": "/Treeify/static/css/main.d8bf760e.css.map",
+    "main.f79de958.js.map": "/Treeify/static/js/main.f79de958.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Treeify/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.132dab48.css",
-    "static/js/main.b653040c.js"
+    "static/css/main.d8bf760e.css",
+    "static/js/main.f79de958.js"
   ]
 }
